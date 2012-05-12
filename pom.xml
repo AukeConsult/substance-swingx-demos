@@ -23,24 +23,7 @@
 			<artifactId>flamengo</artifactId>
 			<version>5.0</version>
 		</dependency>
-		<dependency>
-			<groupId>batik</groupId>
-			<artifactId>batik-dom</artifactId>
-			<version>1.6</version>
-		</dependency>
-		<dependency>
-			<groupId>batik</groupId>
-			<artifactId>batik-svg-dom</artifactId>
-			<version>1.6</version>
-	   </dependency>
-       <dependency>
-	<groupId>john-test</groupId>
-	<artifactId>batik-bridge</artifactId>
-	<version>1.6</version>
-</dependency>
-                 
-            
-		
+	
         <dependency>
 			<groupId>com.jhlabs</groupId>
 			<artifactId>filters</artifactId>
